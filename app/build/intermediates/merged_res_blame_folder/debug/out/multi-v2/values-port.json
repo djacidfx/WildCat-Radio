@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.app.ClassicRadio.app-mergeDebugResources-3:/values-port/values-port.xml",
+            "outputFile": "com.app.mywild.app-mergeDebugResources-2:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\djaci\\.gradle\\caches\\transforms-3\\30891a14132f501b0723920f18972b1c\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\djaci\\.gradle\\caches\\transforms-3\\01cfbbf3c4486002f408b232e267f8d6\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

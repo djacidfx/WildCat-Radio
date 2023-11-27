@@ -5,7 +5,7 @@
     <string name="app_name">WildCat Radio</string>
 
     <!-- Change Radio Stream Url Here -->
-    <string name="radio_stream_url">https://stream.friskyradio.com</string>
+    <string name="radio_stream_url">https://edge13.streamonkey.net/fantasy-2000er/stream/aacp</string>
 
     <!-- Whether to enable autoplay radio on launching -->
     <string name="autoplay_enabled">true</string>
@@ -33,11 +33,11 @@
 
         <!-- YouTube Item Here -->
         <item>@drawable/youtube</item>
-        <item>https://www.youtube.com/channel/UCnON8vNyqu6715XbRyejV9w</item>
+        <item>https://www.youtube.com/channel/UCdG5wcSBZ43_4q4erjaO14w</item>
 
         <!-- WhatsApp Item Here -->
         <item>@drawable/whatsapp</item>
-        <item>https://wa.me/</item>
+        <item>https://mywild.work/</item>
 
     </array>
     
