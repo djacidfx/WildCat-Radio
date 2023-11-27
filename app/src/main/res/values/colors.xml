@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#CB0000</color>
+    <color name="colorPrimaryDark">#CB0000</color>
+    <color name="colorAccent">#CB0000</color>
+
+    <!--others-->
+    <color name="colorBlack">#000000</color>
+    <color name="colorPlayButton">@color/colorPrimary</color>
+    <color name="colorRadioImageBorder">#E1E1E1</color>
+    <color name="colorStatusBarDark">#000000</color>
+    <color name="colorToolbarDark">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorGrey">#E1E1E1</color>
+    <color name="colorRipple">#7E7E7E</color>
+    <color name="progressBarColor">@color/colorPrimary</color>
+    <color name="semiTransparentColor">#80000000</color>
+
+</resources>

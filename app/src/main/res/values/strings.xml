@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="internet_not_connected">Internet not connected</string>
+    <string name="error_loading_radio">Error loading radio or server currently down, please try it again later.</string>
+
+    <!--exit dialog-->
+    <string name="message">What do you want to do?</string>
+    <string name="dialog_option_cancel">CANCEL</string>
+    <string name="dialog_option_quit">EXIT</string>
+    <string name="dialog_option_minimize">MINIMIZE</string>
+
+    <!--other string tag name-->
+    <string name="option_ok">OK</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="no_radio_selected">Whoops, No Radio Selected!</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="no_social_found">Whoops, no social available at this time</string>
+
+</resources>

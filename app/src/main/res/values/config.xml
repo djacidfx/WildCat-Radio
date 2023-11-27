@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Change App Name Here -->
+    <string name="app_name">WildCat Radio</string>
+
+    <!-- Change Radio Stream Url Here -->
+    <string name="radio_stream_url">https://stream.friskyradio.com</string>
+
+    <!-- Whether to enable autoplay radio on launching -->
+    <string name="autoplay_enabled">true</string>
+
+    <!-- Whether the radio album art is circular -->
+    <string name="circular_album_art">false</string>
+
+    <!-- Background image blur amount -->
+    <string name="background_blur_amount">40</string>
+
+    <!-- Whether to enable social items -->
+    <string name="enable_social_items">true</string>
+
+
+    <!-- Define social items here -->
+    <array name="social_items">
+
+        <!-- Facebook Item Here -->
+        <item>@drawable/facebook</item>
+        <item>https://www.facebook.com/TheRockinRev</item>
+
+        <!-- Twitter Item Here -->
+        <item>@drawable/twitter</item>
+        <item>https://twitter.com/WildCatStudio18</item>
+
+        <!-- YouTube Item Here -->
+        <item>@drawable/youtube</item>
+        <item>https://www.youtube.com/channel/UCnON8vNyqu6715XbRyejV9w</item>
+
+        <!-- WhatsApp Item Here -->
+        <item>@drawable/whatsapp</item>
+        <item>https://wa.me/</item>
+
+    </array>
+    
+</resources>
