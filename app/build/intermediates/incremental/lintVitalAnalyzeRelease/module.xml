@@ -1,0 +1,29 @@
+<lint-module
+    format="1"
+    dir="A:\classic radio\for_buyer\classic_radio\app"
+    name=":app"
+    type="APP"
+    maven="classic_radio:app:"
+    agpVersion="8.1.4"
+    buildFolder="build"
+    bootClassPath="C:\Users\djaci\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\djaci\AppData\Local\Android\sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="OldTargetApi,GradleDependency"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="OldTargetApi"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

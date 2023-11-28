@@ -50,12 +50,12 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:layout_margin="20dp"
-                    android:text="@string/app_name"
                     android:id="@+id/txt_radio_name_expand"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
                     android:gravity="center"
+                    android:text="@string/app_name"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Body2"
                     android:textColor="@color/white"
                     android:textSize="28sp"

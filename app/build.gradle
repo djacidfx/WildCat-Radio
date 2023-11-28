@@ -60,6 +60,7 @@ dependencies {
     implementation 'androidx.media:media:1.6.0'
 
     implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.google.android.gms:play-services-ads:22.5.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
     implementation 'jp.wasabeef:glide-transformations:4.3.0'
     implementation 'com.makeramen:roundedimageview:2.3.0'
@@ -74,6 +75,6 @@ dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
     implementation "com.github.gsotti:EqualizerView:v0.2"
     implementation 'com.github.mohammadima3oud:Android-Intent-Library:1.0.0'
-
-
+    implementation 'com.google.android.gms:play-services-ads:22.5.0'
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
 }

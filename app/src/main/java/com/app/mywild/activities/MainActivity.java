@@ -1,6 +1,11 @@
 package com.app.mywild.activities;
 
-
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.AdView;
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
@@ -42,6 +47,7 @@ import jp.wasabeef.glide.transformations.BlurTransformation;
 
 public class MainActivity extends AppCompatActivity {
 
+
     RoundedImageView imgRadio;
     ImageView imgMusicBackground;
 
@@ -53,11 +59,20 @@ public class MainActivity extends AppCompatActivity {
     Utils utils;
     LinearLayout lytExit;
     View lytDialog;
-
+    AdView mAdView; // Declare mAdView variable here
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        MobileAds.initialize(this, new OnInitializationCompleteListener() {
+            @Override
+            public void onInitializationComplete(InitializationStatus initializationStatus) {
+            }
+        });
+        mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
 
         utils = new Utils(this);
 

@@ -1,270 +1,274 @@
 [
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_tumblr.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/tumblr.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_menu_timer.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_menu_timer.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_twitter.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/twitter.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_skype.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\skype.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_radio_image.webp.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/radio_image.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_messenger.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\messenger.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_color_progress_seek.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/color_progress_seek.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_slide_out.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/slide_out.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_fade_in.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/fade_in.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_snapchat.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\snapchat.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_facebook.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/facebook.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_askme.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\askme.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_drawer_home.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_drawer_home.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_button_play.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_button_play.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_reddit.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/reddit.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_drawer_share.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_drawer_share.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_snapchat.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/snapchat.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_drawer_permission.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_drawer_permission.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\font_custom_font.ttf.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\font\\custom_font.ttf"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/layout_content_radio.xml.flat",
-        "source": "com.app.mywild.app-main-6:/layout/content_radio.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_close.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_whatsapp.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/whatsapp.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_drawer_rate.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_drawer_rate.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_button_play.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_button_play.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\facebook.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_vine.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\vine.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_linkedin.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/linkedin.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_instagram.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\instagram.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_slide_down.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/slide_down.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\slide_up.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_rounded_corner.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/rounded_corner.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_noti_close.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_noti_close.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/layout_volume_layout.xml.flat",
-        "source": "com.app.mywild.app-main-6:/layout/volume_layout.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_button_pause.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_button_pause.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_instagram.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/instagram.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\layout_custom_dialog_exit.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\layout\\custom_dialog_exit.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/xml_network_security_config.xml.flat",
-        "source": "com.app.mywild.app-main-6:/xml/network_security_config.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_pause_white.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_pause_white.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_slide_in.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/slide_in.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_reddit.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\reddit.png"
+    },
+    {
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "com.app.mywild.app-merged_res-4:/layout_activity_main.xml.flat",
         "source": "com.app.mywild.app-main-6:/layout/activity_main.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_fade_out.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/fade_out.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_rounded_corner_light.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\rounded_corner_light.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_whatsapp.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\whatsapp.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_radio_notif.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_radio_notif.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_drawer_home.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_drawer_home.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/anim_slide_up.xml.flat",
-        "source": "com.app.mywild.app-main-6:/anim/slide_up.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_play_arrow_white.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_play_arrow_white.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\slide_down.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_noti_close.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_noti_close.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_volume_up.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_volume_up.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_pinterest.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/pinterest.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\layout_volume_layout.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\layout\\volume_layout.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_drawer_about.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_drawer_about.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_radio_image.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\radio_image.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_vine.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/vine.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\slide_in.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_rounded_corner_light.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/rounded_corner_light.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_pinterest.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\pinterest.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/font_custom_font.ttf.flat",
-        "source": "com.app.mywild.app-main-6:/font/custom_font.ttf"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_drawer_about.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_drawer_about.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_drawer_share.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_drawer_share.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_color_progress_seek.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\color_progress_seek.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\layout_content_radio.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\layout\\content_radio.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_pause_white.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_pause_white.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/layout_custom_dialog_exit.xml.flat",
-        "source": "com.app.mywild.app-main-6:/layout/custom_dialog_exit.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_vkontakte.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\vkontakte.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_action_play.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_action_play.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_volume_down.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_volume_down.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_action_play.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_action_play.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\fade_out.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_askme.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/askme.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\slide_out.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_skype.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/skype.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_play_arrow_white.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_play_arrow_white.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_tumblr.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\tumblr.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_volume_up.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_volume_up.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\xml\\network_security_config.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_close.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_close.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_googleplus.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\googleplus.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_radio_notif.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_radio_notif.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-hdpi\\ic_arrow_back.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_drawer_rate.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_drawer_rate.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\anim\\fade_in.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_menu_timer.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_menu_timer.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_youtube.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\youtube.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_button_pause.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_button_pause.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.app.mywild.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable_ic_volume_down.xml.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable\\ic_volume_down.xml"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable_ic_drawer_permission.xml.flat",
-        "source": "com.app.mywild.app-main-6:/drawable/ic_drawer_permission.xml"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-hdpi_ic_arrow_back.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-hdpi/ic_arrow_back.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\twitter.png"
     },
     {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_messenger.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/messenger.png"
-    },
-    {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_youtube.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/youtube.png"
-    },
-    {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_googleplus.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/googleplus.png"
-    },
-    {
-        "merged": "com.app.mywild.app-merged_res-4:/drawable-xhdpi_vkontakte.png.flat",
-        "source": "com.app.mywild.app-main-6:/drawable-xhdpi/vkontakte.png"
+        "merged": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-merged_res-4:\\drawable-xhdpi_linkedin.png.flat",
+        "source": "C:\\Users\\djaci\\.gradle\\daemon\\8.0\\com.app.mywild.app-main-6:\\drawable-xhdpi\\linkedin.png"
     }
 ]
